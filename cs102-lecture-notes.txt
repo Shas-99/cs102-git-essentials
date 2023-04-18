@@ -5,3 +5,7 @@ so we'll be seeing a few commands
 3. git commit --- commits the file with a message (-m)
 4. git push origin main --- pushes the commited file to the origin in the main branch
 5. git pull origin main --- pulls(updates) the files edited in the origin and main branch
+
+In today's lecture I got to learn how to push and pull files to and from my repository.
+I also learned about markup language , where it is used, how it is different from html.
+
